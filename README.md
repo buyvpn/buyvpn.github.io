@@ -1,4 +1,4 @@
-# 购买VPN - 11月19日20.2M/S|免费Shadowrocket节点/Singbox节点/Clash节点/V2ray节点/SSR节点节点推荐，V2rayC梯子购买推荐  更新时间 2025-11-19 10:28:40
+# 购买VPN - 11月23日22.2M/S|免费Shadowrocket节点/V2ray节点/Singbox节点/Clash节点/SSR节点节点推荐，V2rayC梯子购买推荐  更新时间 2025-11-23 09:48:21
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://buyvpn.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://buyvpn.github.io/uploads/2025/11/0-20251119.yaml
-- https://buyvpn.github.io/uploads/2025/11/1-20251119.yaml
-- https://buyvpn.github.io/uploads/2025/11/2-20251119.yaml
-- https://buyvpn.github.io/uploads/2025/11/3-20251119.yaml
-- https://buyvpn.github.io/uploads/2025/11/4-20251119.yaml
+- https://buyvpn.github.io/uploads/2025/11/0-20251123.yaml
+- https://buyvpn.github.io/uploads/2025/11/1-20251123.yaml
+- https://buyvpn.github.io/uploads/2025/11/2-20251123.yaml
+- https://buyvpn.github.io/uploads/2025/11/3-20251123.yaml
+- https://buyvpn.github.io/uploads/2025/11/4-20251123.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://buyvpn.github.io/uploads/2025/11/0-20251119.txt
-- https://buyvpn.github.io/uploads/2025/11/1-20251119.txt
-- https://buyvpn.github.io/uploads/2025/11/2-20251119.txt
-- https://buyvpn.github.io/uploads/2025/11/3-20251119.txt
-- https://buyvpn.github.io/uploads/2025/11/4-20251119.txt
+- https://buyvpn.github.io/uploads/2025/11/0-20251123.txt
+- https://buyvpn.github.io/uploads/2025/11/1-20251123.txt
+- https://buyvpn.github.io/uploads/2025/11/2-20251123.txt
+- https://buyvpn.github.io/uploads/2025/11/3-20251123.txt
+- https://buyvpn.github.io/uploads/2025/11/4-20251123.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://buyvpn.github.io/uploads/2025/11/20251119.json
+- https://buyvpn.github.io/uploads/2025/11/20251123.json
 
 ## 更多Clash节点订阅 ：
 
